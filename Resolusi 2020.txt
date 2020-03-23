@@ -1,6 +1,6 @@
 Resolusi saya di 2020 untuk belajar pemrograman:
 - Konsisten belajar pemrograman minimal 2 jam setiap hari
 - Fokus belajar website development dan teknologinya
-- Konsisten olahraga guna mendukung kemampuan badan dalam belajar pemrograman
 - Konsisten jaga makan guna mendukung kemampuan badan dalam belajar pemrograman
 - Banyak bertanya dengan para ahli pemrograman
+- Fokus Belajar PHP, HTML, dan CSS
